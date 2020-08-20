@@ -10,6 +10,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Repository\" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Notes.DAL\Notes.DAL.csproj" />
   </ItemGroup>
 

@@ -4,7 +4,7 @@ using System.Collections.ObjectModel;
 using System.Data.Entity;
 using System.Linq;
 
-namespace Notes.MockDB.Set
+namespace Notes.MockDB
 {
     public class FakeDbSet<T> : IDbSet<T>
      where T : class
